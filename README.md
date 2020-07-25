@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1> Bienvenido a mi perfil de github! </h1>
+<h2> im a frontend developer </h2>
 
-<!--
-**francoandes12/francoandes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const franco = {
+  age:'24',
+  country:'Argentina',
+  skills:['HTML','CSS','JAVASCRIPT','TYPESCRIPT','Bootstrap','SASS','ANGULAR','REACT','HOOKS,'STYLED-COMPONENTS','REACT ROUTER','NODE JS','EXPRESS','MONGODB']
+}
+```
+<p> you can see all my projects in the link below!
+<a href='https://franco-ibarra-portafolio.herokuapp.com/' target='_blank'> portfolio </a>
