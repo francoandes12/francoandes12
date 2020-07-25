@@ -15,5 +15,3 @@ const franco = {
 ```
 <p> you can see all my projects in the link below!
 <a href='https://franco-ibarra-portafolio.herokuapp.com/' target='_blank'> portfolio </a> <br>
-## you can find me:
--[Facebook].(https://www.facebook.com/francoandes12)
