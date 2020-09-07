@@ -13,4 +13,4 @@ const franco = {
 }
 ```
 <p> you can see all my projects in the link below!
-<a href='https://franco-ibarra-portafolio.herokuapp.com/' target='_blank'> portfolio </a> <br>
+<a href='https://franco-ibarra.netlify.app/' target='_blank'> portfolio </a> <br>
