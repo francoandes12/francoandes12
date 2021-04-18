@@ -9,7 +9,7 @@
 const franco = {
   age:'24',
   country:'Argentina',
-  city:'Cordoba'
+  city:'Cordoba',
   skills:['HTML','CSS','JAVASCRIPT','REACT','NODE JS','MONGODB'],
   favouriteTeam:'Boca Juniors',
   music:'Electronic',
